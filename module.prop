@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=swypelibs
+name=SwypeLibs Module
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=xenithorb
+description=SwypeLibs from OpenGapps to restore swype functionality in AOSP keyboard
 template=3
